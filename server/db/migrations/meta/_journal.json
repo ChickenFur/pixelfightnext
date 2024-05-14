@@ -1,0 +1,27 @@
+{
+  "version": "6",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1715386382037,
+      "tag": "0000_fine_black_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1715711943923,
+      "tag": "0001_polite_robbie_robertson",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1715717770735,
+      "tag": "0002_tan_nightshade",
+      "breakpoints": true
+    }
+  ]
+}

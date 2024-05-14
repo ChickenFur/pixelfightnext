@@ -1,0 +1,1 @@
+ALTER TABLE `world_users` DROP COLUMN `user_color`;
